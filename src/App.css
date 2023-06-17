@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+  color: brown;
+
+}
+.div{
+  display: flex;
+  flex-direction: column;
+  width: 20vw;
+  margin-left: 40%;
+}
+.button{
+  background-color: black;
+  color:aliceblue;
+  margin: top 10px;
+}
+.input{
+  margin: top 10px;
+}
